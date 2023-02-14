@@ -1,5 +1,3 @@
 Here are some notes about my python file:
 it contains a main function that prints the statement
 "Hello World" to the console
-
-*This is the edit to my notes*
